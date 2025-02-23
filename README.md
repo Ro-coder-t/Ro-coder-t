@@ -1,5 +1,5 @@
 
-![Imagen de WhatsApp 2025-02-23 a las 09 28 42_c0252b19](https://github.com/user-attachments/assets/3c6031c5-3b89-410d-bcc6-f56ce9eba9ed)
+![banner](https://github.com/user-attachments/assets/8debe7a5-6601-4ada-b47f-9d910ddecb03)
 
 
 # 👋 Hola, soy Rocío Díaz Ramírez
