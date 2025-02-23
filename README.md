@@ -1,5 +1,7 @@
 
-![Mi Banner](https://github.com/tuusuario/tu-repo/ruta-del-banner.png)
+<div id="header" align="center">
+  <img decoding="async" src= "https://github.com/tuusuario/tu-repo/ruta-del-banner.png"/>
+</div>
 
 
 # 👋 Hola, soy Rocío Díaz Ramírez
