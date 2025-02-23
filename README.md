@@ -1,5 +1,6 @@
 
-![Mi Banner](https://github.com/tuusuario/tu-repo/ruta-del-banner.png)
+![Imagen de WhatsApp 2025-02-23 a las 09 28 42_c0252b19](https://github.com/user-attachments/assets/3c6031c5-3b89-410d-bcc6-f56ce9eba9ed)
+
 
 # 👋 Hola, soy Rocío Díaz Ramírez
 
