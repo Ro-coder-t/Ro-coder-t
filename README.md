@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**Ro-coder-t/Ro-coder-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Mi Banner](https://github.com/tuusuario/tu-repo/ruta-del-banner.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hola, soy Rocío Díaz Ramírez
+
+### 🌟 Desarrolladora Web Full Stack | Entusiasta de la tecnología y el análisis de datos
+
+Bienvenido a mi perfil de GitHub. Me apasiona el desarrollo web, la tecnología y el análisis de datos. Actualmente, estoy en proceso de aprender y mejorar mis habilidades en tecnologías de desarrollo web.
+
+---
+
+## 🚀 Tecnologías y herramientas
+
+- 🌐 *Desarrollo Web*: HTML
+- 🐍 *Python*: Pandas, NumPy, Scikit-learn
+- 📊 *Análisis de Datos*
+  
+
+## 📫 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/)
+
+
+## 🌱 Proyectos y Aprendizaje
+
+Actualmente, estoy desarrollando una aplicación con funcionalidad de oráculo enfocada en el crecimiento personal y el amor. También estoy explorando el mundo de la inversión en acciones y ETFs.
+
+¡Gracias por visitar mi perfil! 
