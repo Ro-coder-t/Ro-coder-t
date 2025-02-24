@@ -25,6 +25,6 @@ Bienvenido a mi perfil de GitHub. Me apasiona el desarrollo web, la tecnología
 
 ## 🌱 Proyectos y Aprendizaje
 
-Actualmente, estoy desarrollando una aplicación con funcionalidad de oráculo enfocada en el crecimiento personal y el amor. También estoy explorando el mundo de la inversión en acciones y ETFs.
+Actualmente, estoy estuando desarrollar una aplicacion de autoconocimiento y crecimiento personal.
 
 ¡Gracias por visitar mi perfil! 
