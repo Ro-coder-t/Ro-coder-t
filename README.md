@@ -12,7 +12,7 @@ Bienvenido a mi perfil de GitHub. Me apasiona el desarrollo web, la tecnología
 
 ## 🚀 Tecnologías y herramientas
 
-- 🌐 *Desarrollo Web*: HTML
+- 🌐 *Desarrollo Web*: HTML, CSS
 - 🐍 *Python*: Pandas, NumPy, Scikit-learn
 - 📊 *Análisis de Datos*
   
