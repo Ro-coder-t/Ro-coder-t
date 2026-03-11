@@ -16,7 +16,6 @@ Mi perfil combina experiencia en el ámbito jurídico con el aprendizaje de herr
 ### Desarrollo web
 - HTML
 - CSS
-- Bulma
 
 ### Python y análisis de datos
 - Python
