@@ -1,30 +1,55 @@
 
-![banner ro dev](https://github.com/user-attachments/assets/9597f8e3-09d8-45ff-a9c5-513387eef32e)
+# Rocío Díaz Ramírez
 
+## Web Developer | Python & Data Analysis
 
-# 👋 Hola, soy Rocío Díaz Ramírez
+Soy desarrolladora web en formación con interés en la intersección entre tecnología, análisis de datos e inteligencia artificial.  
 
-### 🌟 Desarrolladora Web Full Stack | Entusiasta de la tecnología y el análisis de datos
+Actualmente estoy ampliando mis conocimientos en desarrollo web y análisis de datos con Python, con el objetivo de construir soluciones tecnológicas útiles y eficientes.
 
-Bienvenido a mi perfil de GitHub. Me apasiona el desarrollo web, la tecnología y el análisis de datos. Actualmente, estoy en proceso de aprender y mejorar mis habilidades en tecnologías de desarrollo web.
+Mi perfil combina experiencia en el ámbito jurídico con el aprendizaje de herramientas tecnológicas, lo que me permite explorar aplicaciones de la tecnología y la inteligencia artificial en contextos profesionales.
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## Tecnologías y herramientas
 
-- 🌐 *Desarrollo Web*: HTML, CSS
-- 🐍 *Python*: Pandas, NumPy, Scikit-learn
-- 📊 *Análisis de Datos*
-  
+### Desarrollo web
+- HTML
+- CSS
+- Bulma
 
-## 📫 Conéctate conmigo
+### Python y análisis de datos
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/)
+---
 
+## Actualmente aprendiendo
 
-## 🌱 Proyectos y Aprendizaje
+- SQL  
+- Visualización y análisis estadístico con Python  
+- Desarrollo de aplicaciones web  
 
-Actualmente, estoy estuando desarrollar una aplicacion de autoconocimiento y crecimiento personal.
+---
 
-¡Gracias por visitar mi perfil! 
+## Proyectos
+
+### LexCore
+Concepto de plataforma tecnológica orientada al ámbito jurídico que busca mejorar la gestión del cumplimiento normativo y la evaluación de riesgos legales mediante herramientas digitales.
+
+El proyecto explora la integración de:
+
+- Automatización de procesos jurídicos
+- Análisis estructurado de información normativa
+- Uso responsable de inteligencia artificial en entornos legales
+
+El objetivo es desarrollar soluciones que permitan a profesionales del derecho trabajar con mayor eficiencia y control sobre la información jurídica.
+
+---
+
+## Contacto
+
+LinkedIn  
+https://www.linkedin.com/
