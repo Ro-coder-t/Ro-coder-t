@@ -19,24 +19,19 @@ Mi perfil combina experiencia en el ámbito jurídico con el aprendizaje de herr
 - HTML
 - CSS
 
-
 ### Análisis de datos
 - Pandas
 - NumPy
 - Matplotlib
 - Scikit-learn
 
----
-
 ## Control de versiones
 
 - Git
 - GitHub
 
-
 ## Entorno de desarrollo
 - VS Code
-  
 
 ## Metodologías
 - Scrum
