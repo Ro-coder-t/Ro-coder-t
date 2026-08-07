@@ -1,7 +1,7 @@
 
 # Rocío Díaz Ramírez
 
-## Web Developer | Python & Data Analysis
+## Python Developer | IA & Data 
 
 Soy desarrolladora web en formación con interés en la intersección entre tecnología, análisis de datos e inteligencia artificial.  
 
@@ -13,23 +13,34 @@ Mi perfil combina experiencia en el ámbito jurídico con el aprendizaje de herr
 
 ## Tecnologías y herramientas
 
-### Desarrollo web
+### Lenguajes
+- Python
+- SQL
 - HTML
 - CSS
 
-### Python y análisis de datos
-- Python
+
+### Análisis de datos
 - Pandas
 - NumPy
+- Matplotlib
 - Scikit-learn
 
 ---
 
-## Actualmente aprendiendo
+## Control de versiones
 
-- SQL  
-- Visualización y análisis estadístico con Python  
-- Desarrollo de aplicaciones web  
+- Git
+- GitHub
+
+
+## Entorno de desarrollo
+- VS Code
+  
+
+## Metodologías
+- Scrum
+ 
 
 ---
 
